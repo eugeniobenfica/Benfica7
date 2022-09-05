@@ -1,8 +1,10 @@
 ## 👋 Olá, [Benfica](https://github.com/ImGenius7)
-### Sou um estudante e gosto de programar :) 
+### Gosto programar :) 
   
 
-- 🌱 Atualmente estou aprendendo Python  
+- 🌱 Atualmente estou aprendendo Python
+
+- 🎩 Democracia, Liberdade e Prosperidade
  
  ###### 🇧🇷 Brazil
 
