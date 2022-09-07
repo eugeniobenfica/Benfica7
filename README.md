@@ -1,6 +1,4 @@
-## 👋 Olá, [Benfica](https://github.com/ImGenius7)
-### Gosto programar :) 
-  
+## 👋 Olá, eu sou [Benfica](https://github.com/ImGenius7)
 
 - 🌱 Atualmente estou aprendendo Python
 
@@ -9,4 +7,4 @@
  ###### 🇧🇷 Brazil
 
 ## Github Stats  
-![Meu status](https://github-readme-stats.vercel.app/api?username=ImGenius7&show_icons=true&theme=midnight-purple) 
+![Meu status](https://github-readme-stats.vercel.app/api?username=Benfica7&show_icons=true&theme=midnight-purple) 
