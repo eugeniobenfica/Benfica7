@@ -2,7 +2,7 @@
 
 - ⚡Innovations
 
-- 🎩 Democracy, Liberty and Prosperity
+- 🎩 Democracy, Freedom and Prosperity
 
 ### Github Stats  
 ![](https://github-readme-stats.vercel.app/api?username=Benfica7&show_icons=true&theme=midnight-purple) 
