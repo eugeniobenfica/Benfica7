@@ -6,7 +6,7 @@ I'm a passionate developer who loves building cool stuff with code. Welcome to m
 
 - 🔭 I’m currently working on some exciting projects.
 - 🌱 I’m constantly learning and growing in the world of software development.
-- 📫 How to reach me: [Your Email Address](mailto:eugeniobenfica7@gmail.comm)
+- 📫 How to reach me: [eugeniobenfica7@gmail.com](mailto:eugeniobenfica7@gmail.com)
 - ⚡ Fun fact: I love math and physics.
 
 ### 🚀 Languages and Tools
